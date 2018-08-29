@@ -1,20 +1,45 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
+title: Missions Projects Clearinghouse
+subtitle: Connecting developers and projects
 image: /img/home-jumbotron.jpg
 blurb:
-    heading: Why Kaldi?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
+  heading: Overview
+  text: >-
+    The purpose of this project is to create a web based software capable of
+    listing projects and developers who are interested in those projects for
+    nonprofits. Unlike most existing solutions available on the internet, the
+    relationship between project and developer will not be based on the monetary
+    compensation offered by the project owner, and remitted to the developer,
+    but rather, the projects will be defined by their value in growing,
+    discipling and supporting the Kingdom of God. The developers are
+    professionals and hobbyists who intend to use the talents God has given
+    them, along with the experience and skills they have honed in order to
+    further the Kingdom of God.
 intro:
-    heading: "What we offer"
-    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
+  heading: Objective
+  text: >-
+    The web site should have an administrator function where projects and
+    developers can be vetted, or at least moderated.  The project listing side
+    should have contact info for the organization wishing the work done,
+    sufficient storage and presentation capabilities so that the organization
+    can tell the story of the need in a compelling, multimedia way, and initial
+    description of the specifics of the project.  The developer side should also
+    collect contact information as well as specific skills and experience in a
+    way that the web site can match project descriptions with developer skills. 
+    This list must be able to grow organically with maybe some moderation by the
+    administrators of the site.
 products:
-    - image: img/illustrations-coffee.svg
-      text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
-    - image: /img/illustrations-coffee-gear.svg
-      text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
+  - image: img/illustrations-coffee.svg
+    text: |
+      Initial Contact -
+      Atalie Snyder 
+      asnyder@maf.org - (208) 498-0736
+  - image: /img/illustrations-coffee-gear.svg
+    text: |
+      Manager - Mark Josephsen
+      mjospehsen@maf.org - (208) 498-0735
 values:
-    heading: Our values
-    text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
+  heading: ''
+  text: ''
 ---
 
