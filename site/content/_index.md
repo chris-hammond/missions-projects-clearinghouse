@@ -28,18 +28,15 @@ intro:
     way that the web site can match project descriptions with developer skills. 
     This list must be able to grow organically with maybe some moderation by the
     administrators of the site.
-products:
+contacts:
   - image: img/illustrations-coffee.svg
     text: |
       Initial Contact -
-      Atalie Snyder 
+      Atalie Snyder - 
       asnyder@maf.org - (208) 498-0736
   - image: /img/illustrations-coffee-gear.svg
     text: |
-      Manager - Mark Josephsen
+      Manager - Mark Josephsen - 
       mjospehsen@maf.org - (208) 498-0735
-values:
-  heading: ''
-  text: ''
 ---
 
